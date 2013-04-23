@@ -1,0 +1,81 @@
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2302]
+    Renderer: Intel(R) G41 Express Chipset
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=0 INTZ=1 RAWZ=0 NULL=0 RESZ=1 SlowINTZ=0
+desktop: 1360x768 60Hz; virtual: 2720x768 at -1360,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\CVeas\Documents\TestProject;C:\Users\CVeas\Documents\TestProject;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'CVeas'
+OS-Version: 6.1.7600 () 0x300-0x1
+C:\Users\CVeas\Documents\TestProject\tanks.exe:tanks.exe (00400000), size: 8966144 (result: 0), SymType: '-exported-', PDB: 'C:\Users\CVeas\Documents\TestProject\tanks.exe', fileVersion: 3.4.2.27374
+C:\Windows\SysWOW64\ntdll.dll:ntdll.dll (77560000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\ntdll.dll', fileVersion: 6.1.7600.16695
+C:\Windows\syswow64\kernel32.dll:kernel32.dll (768B0000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\kernel32.dll', fileVersion: 6.1.7600.16850
+C:\Windows\syswow64\KERNELBASE.dll:KERNELBASE.dll (75830000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\KERNELBASE.dll', fileVersion: 6.1.7600.16850
+C:\Windows\syswow64\USER32.dll:USER32.dll (769B0000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USER32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\GDI32.dll:GDI32.dll (76820000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\GDI32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\LPK.dll:LPK.dll (76740000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\LPK.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\USP10.dll:USP10.dll (75270000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USP10.dll', fileVersion: 1.626.7600.16385
+C:\Windows\syswow64\msvcrt.dll:msvcrt.dll (75780000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\msvcrt.dll', fileVersion: 7.0.7600.16385
+C:\Windows\syswow64\ADVAPI32.dll:ADVAPI32.dll (74E80000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\SysWOW64\sechost.dll:sechost.dll (76720000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\sechost.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\RPCRT4.dll:RPCRT4.dll (759A0000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SspiCli.dll:SspiCli.dll (74C60000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SspiCli.dll', fileVersion: 6.1.7600.16484
+C:\Windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (74C50000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SHELL32.dll:SHELL32.dll (75AD0000), size: 12881920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHELL32.dll', fileVersion: 6.1.7600.16644
+C:\Windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (75310000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\ole32.dll:ole32.dll (76AB0000), size: 1425408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7600.16624
+C:\Windows\system32\VERSION.dll:VERSION.dll (72DE0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (6CD80000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (6CD50000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (71B20000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (71EA0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DCIMAN32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (75030000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SETUPAPI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\CFGMGR32.dll:CFGMGR32.dll (76C40000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CFGMGR32.dll', fileVersion: 6.1.7600.16820
+C:\Windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (755F0000), size: 585728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7600.16872
+C:\Windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (754B0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\DEVOBJ.dll', fileVersion: 6.1.7600.16820
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (72870000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINMM.dll:WINMM.dll (71ED0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINMM.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\WS2_32.dll:WS2_32.dll (75A90000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WS2_32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\NSI.dll:NSI.dll (77530000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\NSI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\IMM32.dll:IMM32.dll (75720000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\IMM32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\MSCTF.dll:MSCTF.dll (76750000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSCTF.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\HID.DLL:HID.DLL (73F80000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WSOCK32.dll:WSOCK32.dll (733E0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WSOCK32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSACM32.dll:MSACM32.dll (6FE50000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSACM32.dll', fileVersion: 6.1.7600.16385
+C:\Users\CVeas\Documents\TestProject\tanks_Data\Mono\mono.dll:mono.dll (10000000), size: 2183168 (result: 0), SymType: '-exported-', PDB: 'C:\Users\CVeas\Documents\TestProject\tanks_Data\Mono\mono.dll'
+C:\Windows\syswow64\PSAPI.DLL:PSAPI.DLL (75250000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (72F70000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSWSOCK.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (71D10000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\d3d9.dll:d3d9.dll (72200000), size: 1847296 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d9.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\d3d8thk.dll:d3d8thk.dll (74630000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d8thk.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\igdumdx32.dll:igdumdx32.dll (03750000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\igdumdx32.dll', fileVersion: 8.15.10.2302
+C:\Windows\system32\igdumd32.dll:igdumd32.dll (038F0000), size: 5050368 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\igdumd32.dll', fileVersion: 8.15.10.2302
+C:\Windows\system32\PowrProf.dll:PowrProf.dll (6E9C0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\PowrProf.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\WINTRUST.dll:WINTRUST.dll (76C70000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WINTRUST.dll', fileVersion: 6.1.7600.16493
+C:\Windows\syswow64\CRYPT32.dll:CRYPT32.dll (754D0000), size: 1163264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPT32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\MSASN1.dll:MSASN1.dll (75710000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSASN1.dll', fileVersion: 6.1.7600.16415
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7600.16661_none_420fe3fa2b8113bd\comctl32.dll:comctl32.dll (723D0000), size: 1695744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7600.16661_none_420fe3fa2b8113bd\comctl32.dll', fileVersion: 6.10.7600.16661
+C:\Windows\system32\xinput9_1_0.dll:xinput9_1_0.dll (6E800000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\xinput9_1_0.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\CLBCatQ.DLL:CLBCatQ.DLL (75680000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (6EAB0000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MMDevApi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (71D90000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PROPSYS.dll', fileVersion: 7.0.7600.16385
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (70000000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wdmaud.drv', fileVersion: 6.1.7600.16385
+C:\Windows\system32\ksuser.dll:ksuser.dll (734A0000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ksuser.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AVRT.dll:AVRT.dll (72C60000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AVRT.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (6EA70000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AUDIOSES.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\msacm32.drv:msacm32.drv (72A00000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\msacm32.drv', fileVersion: 6.1.7600.16385
+C:\Windows\system32\midimap.dll:midimap.dll (71E90000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\midimap.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (6E6E0000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dbghelp.dll', fileVersion: 6.1.7600.16385
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x10097D30) (mono): (filename not available): mono_method_verify
+(0x1001DDBA) (mono): (filename not available): mono_class_from_name
+(0x005598FF) (tanks): (filename not available): (function-name not available)
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
